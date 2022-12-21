@@ -81,6 +81,11 @@
   margin-top: 0;
 }
 
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-line-1 {
   transform-origin: left center 0px;
   width: 800px;
