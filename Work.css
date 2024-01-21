@@ -51,18 +51,17 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 345px;
+    min-height: 422px;
   }
 
   .u-section-1 .u-icon-1 {
     width: 68px;
     height: 68px;
-    margin-top: 0;
+    margin-top: 103px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-bottom: 0;
   }
 } .u-section-2 {
   background-image: none;
@@ -267,10 +266,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 2215px;
+    min-height: 3337px;
   }
 
   .u-section-2 .u-gallery-1 {
+    margin-bottom: 53px;
     height: 3284px;
   }
 }
