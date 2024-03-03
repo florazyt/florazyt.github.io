@@ -5,7 +5,7 @@
 .u-section-1 .u-icon-1 {
   width: 412px;
   height: 105px;
-  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
@@ -15,12 +15,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  --animation-custom_in-translate_x: 300px;
+  font-size: 1.25rem;
+  --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  font-size: 1.25rem;
   margin: 24px 829px 60px 131px;
 }
 
