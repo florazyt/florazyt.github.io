@@ -43349,6 +43349,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 400;
   font-size: 1rem;
   text-transform: none;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -43363,10 +43364,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1399px) {
   .u-header .u-file-icon-1 {
     font-size: 1.5rem;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 
   .u-header .u-image-1 {
