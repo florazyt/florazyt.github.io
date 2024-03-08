@@ -193,7 +193,6 @@
 .u-section-2 .u-image-3 {
   --radius: 30px;
   height: 437px;
-  object-position: 80.13% 50%;
   transition-duration: 0.25s;
   margin-top: -240px;
   margin-bottom: 0;
@@ -222,6 +221,7 @@
 .u-section-2 .u-image-4 {
   --radius: 30px;
   height: 437px;
+  object-position: 80.13% 50%;
   transition-duration: 0.25s;
   margin-top: -240px;
   margin-bottom: 0;
@@ -230,7 +230,7 @@
 .u-section-2 .u-list-item-5 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
-  --animation-custom_in-opacity: 0.5;
+  --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   margin-top: 0;
@@ -258,7 +258,7 @@
 .u-section-2 .u-list-item-6 {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
-  --animation-custom_in-opacity: 0;
+  --animation-custom_in-opacity: 0.5;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   margin-top: 0;
@@ -683,7 +683,6 @@
   .u-section-2 .u-image-1 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -39px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -698,7 +697,6 @@
   .u-section-2 .u-image-2 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -39px;
   }
 
   .u-section-2 .u-container-layout-3 {
@@ -713,7 +711,6 @@
   .u-section-2 .u-image-3 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -39px;
   }
 
   .u-section-2 .u-container-layout-4 {
@@ -728,7 +725,6 @@
   .u-section-2 .u-image-4 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -39px;
   }
 
   .u-section-2 .u-container-layout-5 {
@@ -743,7 +739,6 @@
   .u-section-2 .u-image-5 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -39px;
   }
 
   .u-section-2 .u-container-layout-6 {
@@ -758,22 +753,7 @@
   .u-section-2 .u-image-6 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -39px;
   }
-}
-
-.u-section-2 .u-image-4,
-.u-section-2 .u-image-4:before,
-.u-section-2 .u-image-4 > .u-container-layout:before {
-  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
-}
-
-.u-section-2 .u-image-4.u-image-4.u-image-4:hover {
-  opacity: 0.2 !important;
-}
-
-.u-section-2 .u-image-4.u-image-4.u-image-4.hover {
-  opacity: 0.2 !important;
 }
 
 .u-section-2 .u-image-5,
@@ -787,20 +767,6 @@
 }
 
 .u-section-2 .u-image-5.u-image-5.u-image-5.hover {
-  opacity: 0.2 !important;
-}
-
-.u-section-2 .u-image-1,
-.u-section-2 .u-image-1:before,
-.u-section-2 .u-image-1 > .u-container-layout:before {
-  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
-}
-
-.u-section-2 .u-image-1.u-image-1.u-image-1:hover {
-  opacity: 0.2 !important;
-}
-
-.u-section-2 .u-image-1.u-image-1.u-image-1.hover {
   opacity: 0.2 !important;
 }
 
@@ -818,6 +784,34 @@
   opacity: 0.2 !important;
 }
 
+.u-section-2 .u-image-3,
+.u-section-2 .u-image-3:before,
+.u-section-2 .u-image-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-2 .u-image-3.u-image-3.u-image-3:hover {
+  opacity: 0.2 !important;
+}
+
+.u-section-2 .u-image-3.u-image-3.u-image-3.hover {
+  opacity: 0.2 !important;
+}
+
+.u-section-2 .u-image-1,
+.u-section-2 .u-image-1:before,
+.u-section-2 .u-image-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-2 .u-image-1.u-image-1.u-image-1:hover {
+  opacity: 0.2 !important;
+}
+
+.u-section-2 .u-image-1.u-image-1.u-image-1.hover {
+  opacity: 0.2 !important;
+}
+
 .u-section-2 .u-image-2,
 .u-section-2 .u-image-2:before,
 .u-section-2 .u-image-2 > .u-container-layout:before {
@@ -832,16 +826,22 @@
   opacity: 0.2 !important;
 }
 
-.u-section-2 .u-image-3,
-.u-section-2 .u-image-3:before,
-.u-section-2 .u-image-3 > .u-container-layout:before {
+.u-section-2 .u-image-4,
+.u-section-2 .u-image-4:before,
+.u-section-2 .u-image-4 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-2 .u-image-3.u-image-3.u-image-3:hover {
+.u-section-2 .u-image-4.u-image-4.u-image-4:hover {
   opacity: 0.2 !important;
 }
 
-.u-section-2 .u-image-3.u-image-3.u-image-3.hover {
+.u-section-2 .u-image-4.u-image-4.u-image-4.hover {
   opacity: 0.2 !important;
+}.u-section-3 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-3 .u-text-1 {
+  margin-bottom: 60px;
 }

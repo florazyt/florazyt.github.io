@@ -316,6 +316,12 @@
   min-height: 999px;
 }
 
+@media (max-width: 1399px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+}
+
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
     min-height: 941px;
