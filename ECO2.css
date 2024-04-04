@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/Snipaste_2024-03-18_23-35-22.png");
+  background-image: url("images/posrcard.png");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -234,74 +234,21 @@
     width: 320px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 400px;
-}
-
-.u-section-3 .u-text-1 {
-  margin-bottom: 0;
-}
-
-.u-section-3 .u-text-2 {
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 60px;
-} .u-section-4 {
-  background-image: url("images/Tabloid-2.png");
-}
-
-.u-section-4 .u-sheet-1 {
-  min-height: 2257px;
-}
-
-@media (max-width: 1399px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 1838px;
-  }
-}
-
-@media (max-width: 1199px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 1516px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 1161px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 871px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 548px;
-  }
-}.u-section-5 .u-sheet-1 {
-  min-height: 400px;
-}
-
-.u-section-5 .u-text-1 {
-  margin: 60px 0;
-}.u-section-6 .u-sheet-1 {
   min-height: 1161px;
 }
 
-.u-section-6 .u-text-1 {
-  margin-top: 109px;
-  margin-bottom: 0;
-}
-
-.u-section-6 .u-video-1 {
+.u-section-3 .u-video-1 {
   height: 788px;
-  margin-top: 109px;
+  margin-top: 0;
   margin-bottom: 60px;
 }
 
-.u-section-6 .embed-responsive-1 {
+.u-section-3 .embed-responsive-1 {
   position: absolute;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-video-1 {
+    margin-top: 246px;
+  }
 }
