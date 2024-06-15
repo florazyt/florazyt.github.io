@@ -17,11 +17,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 60px 981px 0 0;
+  font-weight: 900;
+  margin: 68px 0 0;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 36px 0 0;
+  margin: 68px 0 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -106,7 +107,8 @@
 }
 
 .u-section-1 .u-layout-wrap-4 {
-  margin: 0 0 60px;
+  width: 1400px;
+  margin: 25px auto 60px -13px;
 }
 
 .u-section-1 .u-layout-cell-7 {
@@ -135,15 +137,11 @@
 
 @media (max-width: 1399px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1680px;
+    min-height: 1861px;
   }
 
   .u-section-1 .u-video-1 {
     height: 662px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 721px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -181,8 +179,8 @@
   }
 
   .u-section-1 .u-layout-wrap-4 {
-    margin-right: initial;
-    margin-left: initial;
+    width: 1140px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-layout-cell-7 {
@@ -200,11 +198,7 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 1623px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 521px;
+    min-height: 1733px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -229,6 +223,10 @@
 
   .u-section-1 .u-layout-cell-6 {
     min-height: 152px;
+  }
+
+  .u-section-1 .u-layout-wrap-4 {
+    width: 940px;
   }
 
   .u-section-1 .u-layout-cell-7 {
@@ -246,11 +244,7 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 1560px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 301px;
+    min-height: 1525px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -277,6 +271,10 @@
     min-height: 100px;
   }
 
+  .u-section-1 .u-layout-wrap-4 {
+    width: 720px;
+  }
+
   .u-section-1 .u-layout-cell-7 {
     min-height: 100px;
   }
@@ -292,11 +290,7 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 1763px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 121px;
+    min-height: 1925px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -314,6 +308,10 @@
     padding-right: 10px;
   }
 
+  .u-section-1 .u-layout-wrap-4 {
+    width: 540px;
+  }
+
   .u-section-1 .u-container-layout-8 {
     padding-left: 10px;
     padding-right: 10px;
@@ -325,11 +323,13 @@
     min-height: 983px;
   }
 
-  .u-section-1 .u-sheet-1 {
-    min-height: 1649px;
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 169px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
-  .u-section-1 .u-text-1 {
-    margin-right: 0;
+  .u-section-1 .u-layout-wrap-4 {
+    width: 340px;
   }
 }
