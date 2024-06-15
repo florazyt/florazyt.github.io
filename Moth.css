@@ -1,5 +1,5 @@
  .u-section-1 {
-  min-height: 968px;
+  min-height: 881px;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -136,6 +136,10 @@
 }
 
 @media (max-width: 1399px) {
+   .u-section-1 {
+    min-height: 968px;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 1861px;
   }
