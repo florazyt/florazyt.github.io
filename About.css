@@ -273,6 +273,13 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin-bottom: 60px;
   font-size: 1.125rem;
+  margin: 20px 72px 60px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
