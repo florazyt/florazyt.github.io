@@ -137,8 +137,8 @@
   --radius: 20px;
   height: 437px;
   transition-duration: 0.25s;
-  margin-top: -240px;
-  margin-bottom: -1px;
+  margin-top: -241px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-list-item-2 {
@@ -166,7 +166,7 @@
   height: 437px;
   object-position: 0% 50%;
   transition-duration: 0.25s;
-  margin-top: -240px;
+  margin-top: -241px;
   margin-bottom: 0;
 }
 
@@ -194,8 +194,8 @@
   --radius: 20px;
   height: 437px;
   transition-duration: 0.25s;
-  margin-top: -240px;
-  margin-bottom: -28px;
+  margin-top: -241px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-list-item-4 {
@@ -223,8 +223,8 @@
   height: 437px;
   object-position: 80.13% 50%;
   transition-duration: 0.25s;
-  margin-top: -240px;
-  margin-bottom: -66px;
+  margin-top: -241px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-list-item-5 {
@@ -251,8 +251,8 @@
   --radius: 20px;
   height: 437px;
   transition-duration: 0.25s;
-  margin-top: -240px;
-  margin-bottom: -110px;
+  margin-top: -241px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-list-item-6 {
@@ -279,8 +279,8 @@
   --radius: 20px;
   height: 437px;
   transition-duration: 0.25s;
-  margin-top: -240px;
-  margin-bottom: -52px;
+  margin-top: -241px;
+  margin-bottom: 0;
 }
 
 @media (max-width: 1399px) {
@@ -312,7 +312,6 @@
   .u-section-2 .u-image-1 {
     height: 353px;
     margin-top: -169px;
-    margin-bottom: -35px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -425,7 +424,6 @@
   .u-section-2 .u-image-1 {
     height: 289px;
     margin-top: -142px;
-    margin-bottom: -27px;
   }
 
   .u-section-2 .u-text-2 {
@@ -515,7 +513,6 @@
   .u-section-2 .u-image-1 {
     height: 450px;
     margin-top: -212px;
-    margin-bottom: -50px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -610,7 +607,6 @@
   .u-section-2 .u-image-1 {
     height: 334px;
     margin-top: -160px;
-    margin-bottom: -38px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -705,7 +701,6 @@
   .u-section-2 .u-image-1 {
     height: 206px;
     margin-top: -103px;
-    margin-bottom: -1px;
   }
 
   .u-section-2 .u-container-layout-2 {
