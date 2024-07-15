@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/R1S-and-R1T.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('images/R1S-and-R1T.jpg');
 }
 
 .u-section-1 .u-sheet-1 {
@@ -529,10 +529,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 700px;
-  }
-
   .u-section-5 .u-repeater-1 {
     grid-gap: 15px 15px;
     min-height: 560px;
@@ -540,20 +536,12 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 500px;
-  }
-
   .u-section-5 .u-repeater-1 {
     min-height: 450px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 300px;
-  }
-
   .u-section-5 .u-repeater-1 {
     min-height: 250px;
   }
@@ -1270,7 +1258,7 @@
     margin-right: 0;
   }
 } .u-section-11 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/rivian-r1t-2022-1280-08.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('images/rivian-r1t-2022-1280-08.jpg');
 }
 
 .u-section-11 .u-sheet-1 {
@@ -1437,7 +1425,8 @@
     min-height: 300px;
   }
 } .u-section-15 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("images/ev-off-roading-rivian-r1t-adventure-package-via-magazine-aaa-courtesy-rivian.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('images/ev-off-roading-rivian-r1t-adventure-package-via-magazine-aaa-courtesy-rivian.jpg');
+  background-position: 50% 50%;
 }
 
 .u-section-15 .u-sheet-1 {
